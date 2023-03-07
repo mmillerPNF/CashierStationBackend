@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{067A83CA-0352-489A-AC3E-455AAE8652DD}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CashierStation.Model/CustomerModel.cs">
+    <Files>
+      <File FileName="CashierStation.Serivce/AdministrationService.cs" Line="28" Column="75" />
+      <File FileName="CashierStation.Data/CustomerDAO.cs" Line="18" Column="17" />
+      <File FileName="CashierStation.Serivce/CustomerService.cs" Line="24" Column="10" />
+      <File FileName="CashierStation.API/Controllers/AdministrationController.cs" Line="12" Column="39" />
+      <File FileName="CashierStation.API/Program.cs" Line="12" Column="77" />
+      <File FileName="CashierStation.Model/CustomerModel.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CashierStation.API" expanded="True">
+            <Node name="CashierStation.API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="CashierStation.Data" expanded="True" />
+            <Node name="CashierStation.Model" expanded="True">
+              <Node name="CustomerModel.cs" selected="True" />
+            </Node>
+            <Node name="CashierStation.Serivce" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CashierStation.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
